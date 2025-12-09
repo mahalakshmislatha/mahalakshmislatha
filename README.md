@@ -16,7 +16,7 @@
 
 <div align="center">
 
- Highly motivated and detail-oriented Web Developer with strong expertise in C, C++, and Java. Skilled in building responsive, user-friendly web applications and solving complex problems with clean, efficient code. Adept at both front-end and back-end development, with hands-on experience in modern web technologies. Passionate about creating seamless digital experiences, optimizing performance, and continuously learning new technologies to deliver high-quality solutions.
+ Highly motivated and detail-oriented **Web Developer** with strong expertise in **C, C++, and Java**. Skilled in building responsive, user-friendly web applications and solving complex problems with clean, efficient code. Adept at both front-end and back-end development, with hands-on experience in modern web technologies. Passionate about creating seamless digital experiences, optimizing performance, and continuously learning new technologies to deliver high-quality solutions.
 
 </div>  
 
@@ -206,6 +206,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [Mahalakshmi](https://github.com/mahalakshmisundarraj)**
 
 </div>
